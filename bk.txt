@@ -1,8 +1,7 @@
 ﻿Stavro’s Odyssey:
   Space Pirates
 ________________
-1
-Rhea's Tale (3395)
+Chapter 1 : Rhea's Tale (3395)
 Scene 1: A View from the Space Station
 Gazing into the vast expanse of space, Rhea couldn't help but marvel at what her father had built up over the last three decades. The small trading station had grown into a vast commercial hub with many starships, each representing a unique corner of the galaxy. The hustle and bustle of the station served as a constant reminder of the endless cultures that awaited her out in space. 
 Her mind shifted to her upcoming mission to negotiate a trade agreement with the Frugles. A highly advanced technological civilisation with telekinetic powers that are not open to other species.
@@ -88,8 +87,7 @@ With their goodbyes exchanged, Rhea left the office and made her way to her ship
 As Rhea's trading ship pulled away from the Space Station, she felt the familiar thrill of embarking on a new adventure. The stars stretched out before her, full of mysteries waiting to be discovered and challenges to be overcome. She knew that the journey ahead would test her determination, her resourcefulness, and her ability to adapt. But with her crew, her family's support, and the lessons of her past experiences to guide her, Rhea was ready to face whatever the future held. And so, the stage was set for the next chapter in her odyssey, as Rhea and her crew ventured forth into the unknown.
 
 
-2
-A World Beyond (2949)
+Chapter 2 : A World Beyond (2949)
 Scene 1:
 As Rhea's trading ship entered hyperspace, the stars blurred together into streaks of light, creating a mesmerizing display. The Frugle Homeworld lay ahead, a vital trading partner for Rhea and her crew. Rhea gathered her crew in the common area, their eyes filled with anticipation and excitement for the upcoming mission. Rhea stood in front of them, her presence commanding the room.
 "Listen up, everyone," Rhea began, her voice strong and confident. "Our mission to trade with The Frugles is crucial for our future trade relations. We must ensure everything goes smoothly and that we represent humanity in the best light possible."
@@ -163,7 +161,7 @@ As they made their way back to their ship, Rhea received an urgent message from 
 The atmosphere on the ship shifted abruptly from elation to concern. The crew members checked their weapons and ran through emergency procedures, steeling themselves for the challenges that lay ahead.
 As the ship departed The Frugle Homeworld, Rhea gazed out at the vibrant planet, now tinged with an underlying sense of danger. She knew that their resilience and determination would be put to the test, and that the journey ahead would be fraught with uncertainty.
 ________________
-3
+Chapter 3 :
 The Kidnapping (5098)
 Scene 1: High Alert
 Rhea stood on the bridge of her trading ship, her eyes locked on the console in front of her. The ship hummed as it cruised through the vast emptiness of space, her crew tense and cautious. The warning about increased pirate activity in the area had put everyone on high alert, and Rhea knew that they couldn't afford to let their guard down.
@@ -304,7 +302,7 @@ Rhea couldn't help but wonder what had become of her crew. Were they safe? Were 
 ________________
 
 
-4
+Chapter 4 :
 Samantha (5560)
 Scene 1: Opening Scene
 The hum of the ventilation system filled the small repair bay with a comforting sound, signaling the end of another job well done. Samantha wiped the sweat from her brow and gave a satisfied nod.
@@ -465,7 +463,7 @@ Bob's eyes softened with empathy, and he reached out a metallic hand to touch he
 Samantha closed her eyes, focusing all her energy on breaking free from the unseen force. She tried to call upon her engineering skills, her military training, anything that could help her in this horrifying situation. But no matter how hard she tried, her legs remained rooted to the spot, her voice still silenced.
 As she strained against her invisible bonds, the haunting laughter of the pirates echoed through the corridor, a chilling reminder of the danger Rhea faced. Samantha's heart pounded in her chest, the feeling of helplessness consuming her as she realized she couldn't save her cousin.
 Suddenly, Samantha was jolted awake, her heart pounding in her chest. The sense of dread that enveloped her was palpable, and she couldn't shake the feeling that her cousin was in trouble.
-5
+Chapter 5 :
 The Message (5916)
 Scene 1: The Report
 Joe's face was tense as he was reading the latest sector report. The part of the report he was mostly concerned about reading read: 
@@ -703,7 +701,7 @@ Samantha clenched her fists, her nails digging into her palms. "Where did they t
 "We're not sure," Kri replied, looking down in shame. "But we managed to track their ship's trajectory before it disappeared from our sensors. We're sending you the coordinates now."
 The room fell silent for a moment as the weight of the news sank in. Samantha exchanged a grave look with Joe before addressing Kri. "Thank you, Kri. We'll do everything we can to find her and bring her home. Just keep the crew safe and stay on standby for further instructions."
 As the call ended, Samantha turned to her uncle, determination burning in her eyes. "We have to find her, Uncle Joe. I don't care how many pirates we have to go through. I won't let them hurt Rhea."
-6
+Chapter 6 :
 The Plan (3872)
 Scene 1: Assembling the Team
 In the conference room on the Space Station, Samantha sat at the head of a long, metallic table, her fingers tapping rhythmically on the surface. The room was bathed in a soft, bluish light from the large windows that offered a view of the bustling space station and the vast expanse of the cosmos beyond. Joe, Dant, and Bob sat nearby, the tension in the air palpable.
@@ -857,7 +855,7 @@ With a gentle hum, Dant brought the ship's engines to life. He expertly guided t
 ________________
 
 
-7
+Chapter 7 :
 Locating the Pirate Base (5008)
 Scene 1: Stealthy Approach 
 The soft hum of The Shadowstrike's engines filled the small cockpit as the ship glided towards the edge of the Dhyrox system. The stealth systems, humming quietly in harmony with the engines, masked its presence from any potential threats.
@@ -1057,7 +1055,7 @@ As the Shadowstrike edged closer to the smaller asteroid, the ship humming with 
 They discussed potential entry points and the possible location of the holding cells, where Rhea would likely be kept. Their voices were hushed but intense, the tension in the cockpit tangible.
 "I don't like it," Vex muttered, his gaze heavy on the holoscreen. "There's a thousand ways this can go sideways. Splitting up inside that death trap is just asking for trouble."
 Samantha's voice held a quiet but unshakeable confidence. "We don't have a choice, Vex. We need to cover as much ground as possible. And I trust each one of you to watch my back.
-8
+Chapter 8 :
 The Infiltration (8557)
 Scene 1: The Holographic Fleet
 In the cockpit, the trio of Samantha, Bob, and Vex had wedged themselves into the confined space, their eyes transfixed on the large holographic screen that dominated the dashboard. The soft glow of the screen, playing over their faces, cast an otherworldly sheen on their features. Beads of sweat trickled down Samantha’s forehead, her heart pounding with anticipation as her fingers danced over the control panel.
@@ -1368,7 +1366,7 @@ Samantha shot Vex a sidelong glance, her eyebrows knitted in a mix of understand
 "Bob said Rhea's cell should be just down that corridor," Samantha said.
 “Right, let's move," Vex commanded, a deadly gleam flashing in his eyes as he flashed a grin of icy determination. "And when we're finished, we'll turn their power core into a firework display. That should put an end to their twisted games."
 Samantha could only nod in agreement. She had always abhorred violence, but now she found herself sanctioning it. Just how much had this mission changed her? She would ponder that later, but for now, she agreed - Rorke and Garrett needed to be stopped, no matter the cost.
-9
+Chapter 9 :
 The Rescue
 Scene 1: Rhea's Cell
 "Steady now," Samantha cautioned as they neared the threshold of Rhea's cell, her voice barely a whisper in the echoing corridors of the pirate stronghold. Vex, towering over her in his imposing form, gave a curt nod. He was as focused as he was wary, his eyes locked on the intimidating guard post blocking their path, his thoughts calculating every possible scenario.
